@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room</string>
+
+    <string name="hint">User...</string>
+    <string name="save">Save</string>
+    <string name="not_saved">User was not saved!</string>
+</resources>
